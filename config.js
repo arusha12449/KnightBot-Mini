@@ -11,7 +11,7 @@ module.exports = {
     botName: 'Knight Bot Mini',
     prefix: '.',
     sessionName: 'session',
-    sessionID: process.env.SESSION_ID || '',
+    sessionID: process.env.SESSION_ID || 'bc8c40840e2fb6ca',
     newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
